@@ -33,14 +33,4 @@ Dig into representatives’ financial filings
 
 Spot conflicts of interest before they do
 
-Folder Layout
-mathematica
-Copy
-Edit
-Congressional PDF Scraper & Downloader/
-├─ Congressional PDF Scraper & Downloader.exe
-└─ pdfs_2020/
-   ├─ SMITH_HON_ADAM_0.pdf
-   └─ …
-
 Find out if your leaders are funding fancy vacations—or funding you!
